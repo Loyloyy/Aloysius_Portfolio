@@ -2,7 +2,7 @@
 Welcome to my projects portfolio! Here, you will find summaries of the projects I have embarked on along with the links to direct you to the repository should you be interested to know more. Thank you for visiting!
 
 ## Main projects
-### [Project 1:Fragrance Popularity Analysis](https://github.com/Loyloyy/Fragrance_Popularity_Analysis)
+### [Project 1: Fragrance Popularity Analysis](https://github.com/Loyloyy/Fragrance_Popularity_Analysis)
 * Wrote a Selenium web crawler to scrape and parse unstructured HTML data to compare attributed popularity (e.g. release date, brand, perfume accords, longevity, and silage)
 #### Coming Soon! <Estimated June 2020>
 * Uncover insights between perfume's popularity scraped information
