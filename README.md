@@ -37,7 +37,7 @@ Welcome to my projects portfolio! Here, you will find summaries of the projects 
 
 
 
-## [Project 5: Final Year Project](https://github.com/Loyloyy/Final_Year_Project)
+### [Project 5: Final Year Project](https://github.com/Loyloyy/Final_Year_Project)
 * Automated data mining and processing procedures, resulting in up to 70% time savings
 * Conducted data regression analyses of the relationship between battery health (SoH) and other extracted features
 * Built multiple machine learning algorithms to balance accuracy and performance for deployment, including support vector regression (SVR), decision tree, random forest, K-nearest neighbour (KNN), and extreme learning machine, achieving up to an RMSE of 0.09 with KNN
@@ -45,6 +45,8 @@ Welcome to my projects portfolio! Here, you will find summaries of the projects 
 * Proposed methods to deploy models, including one-time, batch and real-time training usingApache Spark and Kafka
 
 ![Alt Text](https://user-images.githubusercontent.com/64775878/84164523-2ed10f00-aaa5-11ea-92fc-8216651815be.png)
+
+
 
 
 
