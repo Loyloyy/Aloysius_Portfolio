@@ -9,7 +9,7 @@ Welcome to my projects portfolio! Here, you will find summaries of the projects 
 * Create a recommendation system to allow for users to find similar perfumes of their liking
 * Deploy models onto web for users to use
 
-![Alt Text](https://user-images.githubusercontent.com/64775878/84164498-28db2e00-aaa5-11ea-9fb8-333d3a66a9f2.PNG)
+![Alt Text](https://user-images.githubusercontent.com/64775878/84434046-e27efe00-ac61-11ea-8db1-43ee45cf0ef4.jpg)
 
 
 ### [Project 2: Hotel Cancellation Prediction](https://github.com/Loyloyy/Hotel_Cancellation_Prediction)
